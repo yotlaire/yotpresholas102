@@ -1,0 +1,7 @@
+Hi my name is Yotlaire Guillou 
+
+
+
+
+
+Collaborative coding is one of the key benefits of GitHub, and it has transformed the way developers work together on code. With GitHub, multiple developers can work on the same codebase simultaneously, making it easier to manage large projects with many contributors.Showcasing skills and building a professional reputation is another important benefit of using GitHub. By contributing to open-source projects and maintaining their own repositories, developers can demonstrate their coding skills and build a portfolio of their work.
